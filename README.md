@@ -1,6 +1,6 @@
 # flet-todo-app
 
-ToDo App in Python and Flet | Flutter for Python, we will create a todo app in
+This is a todo app in
 python and flet. Flet is a new framework which is based on flutter but uses
 python programming language for now
 
